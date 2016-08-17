@@ -1,7 +1,6 @@
 <application>
   <component name="FindSettings">
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -13,6 +12,7 @@
       <mask>*.js</mask>
       <mask>*.html</mask>
       <mask>*.json</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>

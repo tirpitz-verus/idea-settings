@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -11,9 +12,9 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.html</mask>
-      <mask>*.json</mask>
       <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>

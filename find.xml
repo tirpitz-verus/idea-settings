@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'engage'" />
     <option name="defaultScopeName" value="Project 'engage'" />
     <option name="SEARCH_SCOPE" value="Project 'engage'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -12,9 +13,9 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.gradle</mask>
-      <mask>*.java</mask>
       <mask>*.json</mask>
       <mask>*.html</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

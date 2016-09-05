@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Project 'engage'" />
+    <option name="defaultScopeName" value="Project 'engage'" />
+    <option name="SEARCH_SCOPE" value="Project 'engage'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>

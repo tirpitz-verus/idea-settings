@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'engage'" />
-    <option name="FILE_MASK" value="*cards.json" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -15,12 +15,12 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.js</mask>
       <mask>*.gradle</mask>
       <mask>*.json</mask>
       <mask>*.html</mask>
       <mask>*.java</mask>
       <mask>*cards.json</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

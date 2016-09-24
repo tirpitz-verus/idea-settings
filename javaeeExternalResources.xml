@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://pmd.sourceforge.net/ruleset/2.0.0" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/f3eabfe9_ruleset_2_0_0.xsd" />
+  </component>
+</application>

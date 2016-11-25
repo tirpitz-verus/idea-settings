@@ -3,6 +3,7 @@
     <option name="customScope" value="Unnamed" />
     <option name="defaultScopeName" value="Unnamed" />
     <option name="SEARCH_SCOPE" value="Unnamed" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>

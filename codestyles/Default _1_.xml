@@ -4,4 +4,14 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="SPACE_AFTER_MODIFIERS_CONSTRUCTOR" value="true" />
+    <option name="SPACE_BEFORE_INFIX_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="PRESERVE_SPACE_AFTER_METHOD_DECLARATION_NAME" value="true" />
+    <option name="SPACE_BEFORE_INFIX_LIKE_METHOD_PARENTHESES" value="true" />
+  </ScalaCodeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="SPACE_BEFORE_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+  </codeStyleSettings>
 </code_scheme>

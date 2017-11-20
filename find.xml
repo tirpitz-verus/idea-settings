@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="Project 'dbtoxlsx'" />
+    <option name="defaultScopeName" value="Project 'dbtoxlsx'" />
+    <option name="SEARCH_SCOPE" value="Project 'dbtoxlsx'" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
